@@ -85,12 +85,13 @@ public void testFilter(){
 <br />
 Below is the effect of running the first test:
 <br />
+![Image](CS15L-Lab2-FailTest.png)
 
 <br />
 <br />
 Below is the effect of running the second test:
 <br />
-![Image]()
+![Image](CS15L-Lab2-PassT.png)
 
 <br />
 <br />
